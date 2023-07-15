@@ -1,0 +1,4 @@
+NAME,SALARY
+Srinivasan,65000
+Katz,75000
+Brandt,92000
