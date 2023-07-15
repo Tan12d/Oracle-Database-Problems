@@ -1,16 +1,16 @@
-// Q1
+# Q1
 
-// a)
+### a)
 ![A.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/3cf20fb9-a122-4dc3-911d-35db8327349a)
 
-// b)
+### b)
 ![B.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/173a2e79-f237-4745-b67e-171a5eb10842)
 
-// c)
+### c)
 ![C.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/c1378fba-a9a2-41f6-99fb-74e1396f5e0a)
 
-// d)
+### d)
 ![D.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/aedc338b-0e21-45e8-98f5-15cc322124ff)
 
-// e)
+### e)
 ![E.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/a36fbc8f-1bed-4745-9c5d-7e8df78c8dbc)
