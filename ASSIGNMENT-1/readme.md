@@ -18,6 +18,7 @@
 # Q2
 
 ![A.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/bb73ee29-f596-4994-a3f4-076d6616522e)
+![X.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/a7fe9cd0-b038-465c-b813-7604bab507db)
 
 # Q3
 
