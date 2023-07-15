@@ -22,3 +22,7 @@
 # Q3
 
 ![B.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/328eccb4-e217-4aec-80c6-21b9ab2cd9c1)
+
+# Q4
+
+![D.png](https://github.com/Tan12d/Oracle-Database-Problems/assets/100254217/92223fb7-4f91-4101-9b4d-f1ca5540b419)
