@@ -218,3 +218,5 @@ new   1: insert into Instructor values(76766, 'Crick', 'Biology', 72000)
 1 row created.
 
 Commit complete.
+
+SQL> select * from Instructor;
