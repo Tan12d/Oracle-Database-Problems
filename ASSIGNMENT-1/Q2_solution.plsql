@@ -219,4 +219,48 @@ new   1: insert into Instructor values(76766, 'Crick', 'Biology', 72000)
 
 Commit complete.
 
+SQL> insert into Instructor values(&id, '&name', '&dept_name', &salary);
+
+Enter value for id: 
+83821
+
+Enter value for name: 
+Brandt
+
+Enter value for dept_name: 
+Comp. Sci.
+
+Enter value for salary: 
+92000
+
+old   1: insert into Instructor values(&id, '&name', '&dept_name', &salary)
+
+new   1: insert into Instructor values(83821, 'Brandt', 'Comp. Sci.', 92000)
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into Instructor values(&id, '&name', '&dept_name', &salary);
+
+Enter value for id: 
+98345
+
+Enter value for name: 
+Kim
+
+Enter value for dept_name: 
+Elec. Eng.
+
+Enter value for salary: 
+80000
+
+old   1: insert into Instructor values(&id, '&name', '&dept_name', &salary)
+
+new   1: insert into Instructor values(98345, 'Kim', 'Elec. Eng.', 80000)
+
+1 row created.
+
+Commit complete.
+
 SQL> select * from Instructor;
