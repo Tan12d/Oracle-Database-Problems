@@ -1,4 +1,4 @@
-SQL> select to_char(date_of_join, 'dd/mm/yy') from faculty_info;
+SQL> select name, to_char(date_of_join, 'dd/mm/yy') from faculty_info;
 
 TO_CHAR(DATE_OF_JOIN,'DD/MM/YY')
 12/03/78
